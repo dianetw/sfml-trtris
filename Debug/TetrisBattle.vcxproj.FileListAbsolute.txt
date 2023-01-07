@@ -1,0 +1,11 @@
+C:\Users\Diane\source\repos\TetrisBattle\Debug\TetrisBattle.exe
+C:\Users\Diane\source\repos\TetrisBattle\Debug\TetrisBattle.vcxproj.CopyComplete
+C:\Users\Diane\source\repos\TetrisBattle\Debug\sfml-graphics-d-2.dll
+C:\Users\Diane\source\repos\TetrisBattle\Debug\sfml-window-d-2.dll
+C:\Users\Diane\source\repos\TetrisBattle\Debug\sfml-system-d-2.dll
+C:\Users\Diane\source\repos\TetrisBattle\Debug\freetyped.dll
+C:\Users\Diane\source\repos\TetrisBattle\Debug\zlibd1.dll
+C:\Users\Diane\source\repos\TetrisBattle\Debug\bz2d.dll
+C:\Users\Diane\source\repos\TetrisBattle\Debug\libpng16d.dll
+C:\Users\Diane\source\repos\TetrisBattle\Debug\brotlidec.dll
+C:\Users\Diane\source\repos\TetrisBattle\Debug\brotlicommon.dll
